@@ -1,0 +1,18 @@
+.box{
+    width: 500px;
+}
+.img__box img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.img__box{
+    border-bottom: 3px solid blue;
+
+}
+    .box__tittle h3{
+    color: brown;
+    }
+    .box__tittle p{
+        color: blue;
+    }
