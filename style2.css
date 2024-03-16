@@ -1,3 +1,6 @@
+body{
+    background-color: pink;
+}
 .box{
     width: 1400px;
 }
@@ -27,6 +30,7 @@
     .box__tittle h3{
     color: brown;
     font-size: 35px;
+    
     }
     .box__tittle p{
         color: blue;
