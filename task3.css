@@ -1,0 +1,39 @@
+
+
+.margin{
+    border: 30px solid orange;
+    width: 588px;
+    
+    
+}
+
+.margin .border{
+    border: 30px solid yellow;
+ 
+}
+
+.margin .border .padding{
+    border: 15px solid green;
+    background-color: blue;
+  
+}
+
+.margin .border .padding .content{
+    position: relative;
+    border-top: 25px solid blue;
+    border-bottom: 20px solid blue;
+   
+   
+   
+}
+
+.margin .border .padding .content span{
+    position: absolute;
+    top: -15px;
+    left: 0px;
+}
+
+.margin .border .padding .content img{
+    width: 500px;
+    
+}

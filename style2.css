@@ -1,18 +1,34 @@
 .box{
-    width: 500px;
+    width: 1400px;
 }
+
+.homepage{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .img__box img{
     width: 300px;
     height: 300px;
     border-radius: 50%;
+   
 }
 .img__box{
     border-bottom: 3px solid blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
 }
     .box__tittle h3{
     color: brown;
+    font-size: 35px;
     }
     .box__tittle p{
         color: blue;
+        font-size: 30px;
     }
